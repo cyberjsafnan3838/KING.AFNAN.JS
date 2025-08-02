@@ -1,14 +1,14 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const xyz = "ArYANAHMEDRUDRO";
+const xyz = "AFNANMALLIK";
 
 module.exports = {
  config: {
  name: "4k",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "—͟͟͞͞𝐀𝐅𝐍𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓_ ☢️ × ArYAN",
+ credits: "—͟͟͞͞𝐀𝐅𝐍𝐀𝐍 ☢️_𖣘 -𝐁𝐎𝐓_ ☢️ × AFNAN",
  premium: false,
  description: "Enhance Photo - Image Generator",
  commandCategory: "Image Editing Tools",
