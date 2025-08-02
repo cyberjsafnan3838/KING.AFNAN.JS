@@ -5,7 +5,7 @@ module.exports.config = {
  credits: "Shaon Ahmed",
  description: "Image search",
  commandCategory: "Search",
- usages: "[Text]",
+ usages: "[pic]",
  cooldowns: 0,
 };
 module.exports.run = async function({ api, event, args }) {
