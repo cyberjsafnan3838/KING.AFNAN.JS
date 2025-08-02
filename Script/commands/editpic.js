@@ -5,7 +5,7 @@ const apiURL = "https://smfahim.xyz/gedit";
 module.exports.config = {
   name: "refine",
   version: "6.9",
-  credits: "API Fahim mode by Ullash ッ",
+  credits: "API Fahim mode by Afnan ッ",
   countDown: 5,
   hasPermssion: 1,
   category: "AI",
@@ -71,4 +71,4 @@ module.exports.handleReply = async function ({ api, event, args }) {
   if (event.type === "message_reply") {
     await handleEdit(api, event, args, this.config.name);
   }
-}
+};
